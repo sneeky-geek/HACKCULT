@@ -1,0 +1,25 @@
+[
+    {
+      "accountId": "user001",
+      "accountHolderName": "Alice Johnson",
+      "balance": 3000,
+      "transactions": [
+        { "type": "deposit", "amount": 1500, "date": "2024-01-01" },
+        { "type": "withdrawal", "amount": 500, "date": "2024-01-10" },
+        { "type": "deposit", "amount": 2000, "date": "2024-01-15" }
+      ],
+      "lastUpdated": "2024-12-01T12:34:56Z"
+    },
+    {
+      "accountId": "user002",
+      "accountHolderName": "Bob Smith",
+      "balance": 4500,
+      "transactions": [
+        { "type": "deposit", "amount": 2000, "date": "2024-02-01" },
+        { "type": "withdrawal", "amount": 1000, "date": "2024-02-10" },
+        { "type": "deposit", "amount": 1500, "date": "2024-02-20" }
+      ],
+      "lastUpdated": "2024-12-02T14:30:00Z"
+    }
+  ]
+  
